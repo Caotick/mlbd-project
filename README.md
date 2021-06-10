@@ -8,6 +8,7 @@ Requiered libraries :
 * Pandas
 * Matplotlib
 * Seaborn
+* Scikit-learn
 * Spotipy (if you wish to replicate the Spotify API's queries)
 
 In order to replicate our experiments, you need:
